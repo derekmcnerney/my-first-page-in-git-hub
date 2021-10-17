@@ -1,0 +1,5 @@
+message = "hello world"
+print(message)
+
+how do i use visual studio
+i didnt make a portfolio in github
